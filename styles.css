@@ -1,3 +1,28 @@
-* {
-    background-color: aqua;
+
+img {
+    display: inline-block;
+    height: 200px;
+    border: 10px solid darkgreen;
+    margin: 5px;
+}
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+li{
+    list-style: none;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: #b9d9b8;
+}
+
+body {
+    display: block solid #4e614e;
+    margin: 8px;
 }
